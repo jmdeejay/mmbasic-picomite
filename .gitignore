@@ -16,4 +16,6 @@ mmbasic config.txt
 
 /images/*.psd
 
+/pico images/
+
 /visuals/tunnel2.bas
