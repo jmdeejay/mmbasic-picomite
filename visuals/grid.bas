@@ -1,0 +1,6 @@
+FOR Y = 1 TO MM.HRES
+ FOR X = 1 TO MM.VRES
+   Z = X - (MM.HRES / 2)
+   IF (Z * 64) MOD Y=0 THEN PIXEL X, Y
+ NEXT
+NEXT

@@ -1,0 +1,19 @@
+mmbasic config.txt
+
+/1-tooling/
+
+/firmwares/PicoCalc*
+/firmwares/WebMite*
+
+/audio/ACDSee.mod
+/audio/Rameses B - Burden of Life.flac
+/audio/Reason Objekt.wav
+/audio/Zomboy - Sample Challenge MK1.wav
+
+/backup/
+
+/games/Chessnovice_johnybot.nes
+
+/images/*.psd
+
+/visuals/tunnel2.bas
