@@ -2,6 +2,8 @@
 
 A suite of MMBasic programs for PicoMite, delivering an integrated experience with utilities, games, and visual programs.
 
+![images-animation-ezgif com-optimize](https://github.com/user-attachments/assets/c5cefb4c-29ca-429a-afe9-cdd47eef9742)
+
 ## Setup
 
 Install the proper firmware from the "firmwares" folder.
