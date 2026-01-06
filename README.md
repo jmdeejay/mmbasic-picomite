@@ -36,6 +36,9 @@ LOAD "/autorun.bas"
 FLASH SAVE 1
 ```
 
+## RTC Module Wiring Diagram (Pico2W)
+<img width="660" height="471" alt="cb90439cae0a2c790833f08bcaef48b4" src="https://github.com/user-attachments/assets/a82e3f64-8acf-4ead-a988-5049ecfb8c0d" />
+
 ## Available programs
 
 ### Root
